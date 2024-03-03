@@ -11,9 +11,6 @@ Welcome to my GitHub! I'm Nathan, a Fintech Developer with a Chartered Financial
 - **Designations:** Chartered Financial Analyst (CFA).
 - **Education:** BBA in Finance from the University of Texas at San Antonio.
 
-## Current Role
-I leverage Python for developing sophisticated automated trading, investment strategies, and financial applications. My work includes performing statistical analyses of market trends and developing tools to enhance the efficiency of trading algorithms and financial data analysis.
-
 ## Connect with Me
 - nathan.ramos.github@gmail.com
 - [Twitter @nathanramoscfa](https://twitter.com/nathanramoscfa)
