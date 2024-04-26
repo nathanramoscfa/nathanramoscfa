@@ -1,7 +1,7 @@
 # Nathan Ramos, CFA
 
 ## About Me
-Welcome to my GitHub! I'm Nathan, a Fintech Developer with a Chartered Financial Analyst (CFA) designation, specializing in Python-based financial analysis, quantitative strategies, and automated trading programs. Currently, I'm a fintech consultant open to new clients, especially in the realm of automated trading programs.
+Welcome to my GitHub! I'm Nathan, a Fintech Developer with a Chartered Financial Analyst (CFA) designation, specializing in Python-based financial analysis, quantitative strategies, and automated trading programs. Currently, I'm a fintech consultant open to new clients, especially in the realm of automated trading bots.
 
 📅 **[Schedule a Meeting with Me](https://calendly.com/nrcapitalmanagement/github-meeting)**
 
