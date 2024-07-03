@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Nathan, a Fintech Developer with a Chartered Financial
 
 ## Professional Summary
 - **Expertise:** Python-based algorithmic trading strategies and fintech applications powered by artificial intelligence.
-- **Frameworks:** Python, OpenAI, APIs, Django, JavaScript, VBA, SQL, HTML, CSS, Docker
+- **Frameworks:** Python, OpenAI, APIs, Django, JavaScript, VBA, SQL, HTML, CSS, Docker.
 - **Environments:** Bloomberg Terminal, Jupyter Lab, Google Colab, Microsoft Excel.
 - **Designations:** Chartered Financial Analyst (CFA).
 - **Education:** BBA in Finance from the University of Texas at San Antonio.
